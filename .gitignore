@@ -1,0 +1,21 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Logs ###
+logs/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Data ###
+data/
+
+### Mac OS ###
+.DS_Store
+
+### Mac OS ###
+.DS_Store
